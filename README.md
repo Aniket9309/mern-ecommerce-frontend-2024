@@ -19,7 +19,7 @@ Hi! My name is **Abhishek Nahar Singh**, I have created this tutorial to teach M
 **For Dev** - `npm i && npm run dev`
 **For Product** - `npm i && npm run preview`
 
-## Env Variables
+## Env Variables .
 
 Make Sure to Create a .env file in root directory and add appropriate variables in order to use the app.
 
